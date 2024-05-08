@@ -45,6 +45,19 @@
     width: 200px;
     display: inline-block;    
     border-radius: 105px;
+ 
+}
+
+.my_card a{
+    text-decoration: none;
+    cursor: pointer;
+    color: #666666;
+}
+
+.my_card a :hover{
+    text-decoration: none;
+    cursor: pointer;
+    color: #666666;
 }
 
 
